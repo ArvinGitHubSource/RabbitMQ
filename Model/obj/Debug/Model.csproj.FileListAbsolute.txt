@@ -1,0 +1,4 @@
+E:\Code\CSharp\RabbitMQ\Model\bin\Debug\Model.dll
+E:\Code\CSharp\RabbitMQ\Model\bin\Debug\Model.pdb
+E:\Code\CSharp\RabbitMQ\Model\obj\Debug\Model.dll
+E:\Code\CSharp\RabbitMQ\Model\obj\Debug\Model.pdb

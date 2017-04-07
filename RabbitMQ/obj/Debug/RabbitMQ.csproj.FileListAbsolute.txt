@@ -1,0 +1,11 @@
+E:\Code\CSharp\RabbitMQ\RabbitMQ\bin\Debug\RabbitMQ.exe.config
+E:\Code\CSharp\RabbitMQ\RabbitMQ\bin\Debug\RabbitMQ.exe
+E:\Code\CSharp\RabbitMQ\RabbitMQ\bin\Debug\RabbitMQ.pdb
+E:\Code\CSharp\RabbitMQ\RabbitMQ\bin\Debug\RabbitMQ.Client.dll
+E:\Code\CSharp\RabbitMQ\RabbitMQ\bin\Debug\RabbitMQ.ServiceModel.dll
+E:\Code\CSharp\RabbitMQ\RabbitMQ\bin\Debug\RabbitMQ.Client.xml
+E:\Code\CSharp\RabbitMQ\RabbitMQ\obj\Debug\RabbitMQ.exe
+E:\Code\CSharp\RabbitMQ\RabbitMQ\obj\Debug\RabbitMQ.pdb
+E:\Code\CSharp\RabbitMQ\RabbitMQ\bin\Debug\Model.dll
+E:\Code\CSharp\RabbitMQ\RabbitMQ\bin\Debug\Model.pdb
+E:\Code\CSharp\RabbitMQ\RabbitMQ\obj\Debug\RabbitMQ.csprojResolveAssemblyReference.cache
